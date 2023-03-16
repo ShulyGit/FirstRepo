@@ -1,1 +1,2 @@
-Hello from GitHub se realiza modificación
+Hello from GitHub se realiza modificación.
+Agrego una nueva línea.
